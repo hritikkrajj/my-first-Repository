@@ -9,7 +9,7 @@ $database = "todo";
 $con = mysqli_connect($server ,$username, $password, $database);
 
 if($con){
-//    echo "connection ok";
+//    echo "connection ok";;
 
    
 }
